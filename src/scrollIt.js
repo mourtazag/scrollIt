@@ -1,4 +1,6 @@
-"use strict";
+/*
+From : https://pawelgrzybek.com/page-scroll-in-vanilla-javascript/
+*/
 
 export default function scrollIt(destination, duration = 200, easing = "easeOutQuad", callback) {
 
